@@ -1,4 +1,4 @@
-## Welcome to Swordy_Zhao's Page
+# Welcome to Swordy_Zhao's Page
 
 You can use the [editor on GitHub](https://github.com/SwordyZhao/SwordyZhao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
