@@ -1,7 +1,8 @@
 # Welcome to Swordy_Zhao's Page
 
 You can use the [editor on GitHub](https://github.com/SwordyZhao/SwordyZhao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+[jump](swordyzhao.github.io/CNAME)
+ 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
